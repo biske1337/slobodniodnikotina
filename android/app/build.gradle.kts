@@ -19,7 +19,7 @@ if (keystorePropertiesFile.exists()) {
 
 
 android {
-    namespace = "com.slobodniodnikotina.app"
+    namespace = "hidden" // hidden because of the privacy
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "27.0.12077973"
 
@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-    applicationId = "com.slobodniodnikotina.app"
+    applicationId = "hidden"
     minSdk = flutter.minSdkVersion
     targetSdk = flutter.targetSdkVersion
     versionCode = 3 
