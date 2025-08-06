@@ -1,4 +1,4 @@
-#Free from Nicotine README
+# Free from Nicotine README
 🚭 Free from Nicotine
 My First Real Project | A Journey of Learning & Growth
 
@@ -8,12 +8,17 @@ This is my first serious programming project—a Free from Nicotine app designed
 I started with zero experience, made countless mistakes, and learned through trial and error. This project represents months of self-study, debugging, and small victories.
 
 Key Features
+
 ✔ Progress Tracking – Log smoke-free days and milestones.
+
 ✔ Motivational Quotes – Encouraging messages to stay strong.
+
 ✔ Withdrawal Tips – Helpful advice for managing cravings.
+
 ✔ Simple & Clean UI – Easy to use, even for beginners.
 
 🛠 How I Built It
+
 Languages: Flutter (Visual studio code with Android studio)
 
 Tools: Git, GitHub
@@ -30,9 +35,13 @@ Debugging for hours (e.g "My app crashed for 3 days until I fixed NullPointerExc
 
 
 📖 What I Learned
+
 This project taught me:
+
 ✅ Problem-solving – Google and Stack Overflow became my best friends.
+
 ✅ Persistence – Fixing one bug often led to another, but I kept going.
+
 ✅ The joy of small wins – When my first button finally worked, I celebrated!
 
 🚀 Future Improvements
@@ -46,5 +55,6 @@ Notifications for motivation
 
 💬 Final Thoughts
 This isn’t a polished, professional app—it’s my first step into real coding. If you’re learning too, I hope this inspires you to build something, no matter how small!
+
 
 
