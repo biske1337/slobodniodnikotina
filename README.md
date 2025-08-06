@@ -1,3 +1,4 @@
+#Free from Nicotine README
 🚭 Free from Nicotine
 My First Real Project | A Journey of Learning & Growth
 
@@ -45,4 +46,5 @@ Notifications for motivation
 
 💬 Final Thoughts
 This isn’t a polished, professional app—it’s my first step into real coding. If you’re learning too, I hope this inspires you to build something, no matter how small!
+
 
