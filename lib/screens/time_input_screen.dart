@@ -183,7 +183,7 @@ class _TimeInputScreenState extends State<TimeInputScreen> {
                                 height: 1.3,
                                 color: Color(
                                   0xFFA8A8A8,
-                                ), // Replaced withOpacity with a lighter color
+                                ), // opacity bug fix
                               ),
                             ),
                           ),
