@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.slobodniodnikotina.app">
+    package="hidden"> // app id hidden
 
     <application
         android:label="Slobodni od Nikotina"
