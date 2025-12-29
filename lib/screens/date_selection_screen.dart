@@ -119,10 +119,10 @@ class _DateSelectionScreenState extends State<DateSelectionScreen> {
 
     try {
       final selectedDate = DateTime(currentYear, currentMonth, selectedDay!);
-      debugPrint('📅 Selected date: $selectedDate');
+      debugPrint('Selected date: $selectedDate');
       widget.onDateSelected!(selectedDate);
     } catch (e) {
-      debugPrint('❌ Error selecting date: $e');
+      debugPrint('Error selecting date: $e');
     } finally {
       if (mounted) {
         setState(() => _isSelecting = false);
