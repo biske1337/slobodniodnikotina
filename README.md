@@ -6,7 +6,7 @@ My First Real Project | A Journey of Learning & Growth
 
 About This Project
 
-This is my first serious programming project—a Free from Nicotine app designed to help people quit smoking. As someone who struggled with nicotine addiction, I wanted to build something meaningful while teaching myself Java, Android development, IOS development, Flutter and version control (Git/GitHub).
+This is my first serious programming project a Free from Nicotine app designed to help people quit smoking. As someone who struggled with nicotine addiction, I wanted to build something meaningful while teaching myself Java, Android development, IOS development, Flutter and version control (Git/GitHub).
 
 I started with zero experience, made countless mistakes, and learned through trial and error. This project represents months of self-study, debugging, and small victories.
 
